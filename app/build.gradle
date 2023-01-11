@@ -11,7 +11,7 @@ plugins {
 }
 
 application{
-    mainClassName "com.app.ApplicationEntry"
+    mainClassName "com.app.CacheApp"
 }
 
 repositories {
